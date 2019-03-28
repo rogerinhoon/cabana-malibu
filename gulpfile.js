@@ -11,11 +11,11 @@ gulp.task("sass", compilaSass);
 
 function compilaSass() {
   return gulp
-    .src("assets/scss/**/*.scss")
+    .src("assets/scss/app.scss")
     .pipe(sass({ outputStyle: "compressed" }).on("error", sass.logError)) // Converte Sass para CSS mimificado com gulp-sass
     .pipe(gulp.dest("assets/css"));
 }
 
 function watch() {
-  gulp.watch("assets/scss/**/*.scss", compilaSass);
+  gulp.watch("assets/scss/app.scss", compilaSass);
 }

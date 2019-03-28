@@ -14,7 +14,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- CSS -->
-        <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/app.css">
         <!-- FAVICON -->
         <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
         <!-- JS -->
@@ -22,6 +22,14 @@
         <script type="text/javascript" language="javascript" src="assets/js/bootstrap.js"></script>
     </head>
     <body>
-
+        <header class="header-cm">
+            header
+        </header>
+        <main class="content-cm">
+            conteúdo
+        </main>
+        <footer class="footer-cm">
+            footer
+        </footer>
     </body>
 </html>
