@@ -5,9 +5,9 @@
 
   * html5
   * css3
-  * sass
-  * bootstrap v 4.3
+  * scss
+  * bootstrap v 4.3.1
   * javascript
   * php v 7.0.1
-  * wordpress v 5.0
+  * gulp v 4.0.0
 </div>
