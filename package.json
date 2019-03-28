@@ -1,0 +1,14 @@
+{
+  "name": "gulp-intro",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> \t<h1>Cabana Malibu</h1>   <h3>Desenvolvido por rogerio.work</h3>   <hr>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rogerio Oliveira Nascimento",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}

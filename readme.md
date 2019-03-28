@@ -6,7 +6,7 @@
   * html5
   * css3
   * sass
-  * bootstrap v 4.1
+  * bootstrap v 4.3
   * javascript
   * php v 7.0.1
   * wordpress v 5.0
