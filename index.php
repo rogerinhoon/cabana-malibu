@@ -16,14 +16,23 @@
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="assets/css/app.css">
         <!-- FAVICON -->
-        <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
+        <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/favicon.png">
         <!-- JS -->
         <script type="text/javascript" language="javascript" src="assets/js/jquery-3.2.1.min.js"></script>
         <script type="text/javascript" language="javascript" src="assets/js/bootstrap.js"></script>
     </head>
     <body>
         <header class="header-cm">
-            header
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <a href="#"><img src="/assets/imgs/cabana-malibu.png" alt="Cabana Malibu"> </a>
+                    </div>
+                    <div class="col-md-8">
+
+                    </div>
+                </div>
+            </div>
         </header>
         <main class="content-cm">
             conteúdo
